@@ -1,3 +1,3 @@
-# TP_videojuegos
+# TP_PLOTEANDOIDEAS
 ** Descargar repositorio
-$ https://github.com/Cecygold/TP_videojuegos01.git
+$ https://github.com/Cecygold/TP_PLOTEANDOIDEASs01.git
